@@ -12,4 +12,4 @@ Any Device with Android 5.0 (API 21) or Later
 
 ## Scan to download
 
-![image](https://user-images.githubusercontent.com/78340623/146810496-b10369cc-e9fd-41bc-8c49-4b255a9f2a23.png)
+![image](https://user-images.githubusercontent.com/78340623/148768509-b8d0a9e2-e6d7-43a4-b237-89d040d80501.png)
